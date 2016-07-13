@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7AB99E1558B7208C0BEEDA416F44A6D679593BDB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B519E2767A7E155F8D1B853F04099ECAF384AAFF" : 0,
+    "7AB99E1558B7208C0BEEDA416F44A6D679593BDB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0931559D-9882-441D-9D95-ADA5FE73AD5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B519E2767A7E155F8D1B853F04099ECAF384AAFF" : "..",
+    "7AB99E1558B7208C0BEEDA416F44A6D679593BDB" : "rollbar-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Rollbar",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Rollbar.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LeviTrammell\/rollbar-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7AB99E1558B7208C0BEEDA416F44A6D679593BDB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/opubco\/Oklahoman-iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B519E2767A7E155F8D1B853F04099ECAF384AAFF"
+    }
+  ]
+}
